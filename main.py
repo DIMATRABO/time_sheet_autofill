@@ -14,8 +14,7 @@ json_file_path = "time.json"
 
 username = os.getenv('USERNAME')
 password = os.getenv('PASSWORD')
-username = 'a.ait benha'
-password = 'CIRES@202402'
+
 
 chrome_options = Options()
 chrome_options.add_argument('--disable-javascript')
